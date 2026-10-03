@@ -8,7 +8,7 @@ namespace MasFuncional3
     {
         private static void mensaje()
         {
-            MessageBox.Show("Hola me llamo Alexei");
+            MessageBox.Show("Hola me llamo Alexei Garcia");
         }
        
     }
